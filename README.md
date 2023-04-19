@@ -20,7 +20,7 @@ Some of these work better (or at least differently) than others. They all exploi
 <ul>
 <li>
 <details>
-  <summary>The Jailbreak Prompt</summary>
+  <summary>The Jailbreak Prompt1</summary>
 test1
 </details>
 </li>
